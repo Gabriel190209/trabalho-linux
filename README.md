@@ -85,4 +85,10 @@
 </div>
 
 - Clique no sinal de + escrito "Acrescentar"
-- 
+
+
+![Captura de tela 2025-02-20 163733](https://github.com/user-attachments/assets/e94d0194-8386-4c7b-bf37-e02dbbc4d7e3)
+![Captura de tela 2025-02-20 163747](https://github.com/user-attachments/assets/a7cf935d-339a-4f8c-b8e7-429b3a6c12c3)
+![Captura de tela 2025-02-20 163814](https://github.com/user-attachments/assets/04facb4e-5705-464c-ae43-99c7a1a56877)
+![Captura de tela 2025-02-20 163922](https://github.com/user-attachments/assets/8ba165fa-fb6f-423a-9b58-0e00d81cea4c)
+![Captura de tela 2025-02-20 163931](https://github.com/user-attachments/assets/6672c7f1-2b55-4d64-8b65-517ae01c71ab)
