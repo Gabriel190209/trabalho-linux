@@ -66,29 +66,53 @@
   <h1><strong>Manual de Instalação</strong></h1>
 </div>
 
-- Primeiramente é aberto o [link](https://ubuntu.com/download/desktop) de instalação
+<br>
+
+> **Primeiramente é aberto o [link](https://ubuntu.com/download/desktop) de instalação**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/038aa434-2385-4f5c-bfb0-14021a8d0495">
 </div>
 
-- Clique no botão de download
+<br>
+
+> **Clique no botão de download**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/990dc6bc-2683-449a-9c0e-af830a7038ee">
 </div>
 
-- Entre no aplicativo VirtualBox
+<br>
+
+> **Entre no aplicativo VirtualBox e clique no sinal de + escrito "Acrescentar" em "Ferramentas"**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/55ae5c86-6480-40f4-bb01-95b07962f194">
 </div>
 
-- Clique no sinal de + escrito "Acrescentar"
+<br>
 
+> **Coloque o nome que voce quer para a máquina, embaixo defina a pasta de armazenamento e no terceiro campo coloque o download que foi feito do linux escolhido**
 
-![Captura de tela 2025-02-20 163733](https://github.com/user-attachments/assets/e94d0194-8386-4c7b-bf37-e02dbbc4d7e3)
-![Captura de tela 2025-02-20 163747](https://github.com/user-attachments/assets/a7cf935d-339a-4f8c-b8e7-429b3a6c12c3)
-![Captura de tela 2025-02-20 163814](https://github.com/user-attachments/assets/04facb4e-5705-464c-ae43-99c7a1a56877)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e94d0194-8386-4c7b-bf37-e02dbbc4d7e3">
+</div>
+
+<br>
+
+> **Clique em "próximo"**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a7cf935d-339a-4f8c-b8e7-429b3a6c12c3">
+</div>
+
+<br>
+
+> **Clique em "próximo"**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/04facb4e-5705-464c-ae43-99c7a1a56877">
+</div>
+
 ![Captura de tela 2025-02-20 163922](https://github.com/user-attachments/assets/8ba165fa-fb6f-423a-9b58-0e00d81cea4c)
 ![Captura de tela 2025-02-20 163931](https://github.com/user-attachments/assets/6672c7f1-2b55-4d64-8b65-517ae01c71ab)
