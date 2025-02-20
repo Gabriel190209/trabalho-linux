@@ -108,11 +108,35 @@
 
 <br>
 
-> **Clique em "próximo"**
+> **Defina a memória base e o processador (recomendado metade do maximo para que rode normalmente tanto o linux quanto fora)**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/04facb4e-5705-464c-ae43-99c7a1a56877">
 </div>
 
-![Captura de tela 2025-02-20 163922](https://github.com/user-attachments/assets/8ba165fa-fb6f-423a-9b58-0e00d81cea4c)
-![Captura de tela 2025-02-20 163931](https://github.com/user-attachments/assets/6672c7f1-2b55-4d64-8b65-517ae01c71ab)
+<br>
+
+> **Defina o tamanho do disco**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ba165fa-fb6f-423a-9b58-0e00d81cea4c">
+</div>
+
+<br>
+
+> **Clique no botão "Finalizar"**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6672c7f1-2b55-4d64-8b65-517ae01c71ab">
+</div>
+
+<br>
+
+- **Após a instalação clique no botão de reeniciar, depois que reeniciado, clique dentro do Linux ja, na pasta de instalação do linux;**
+- **Preencha todos os dados necessários e clique para finalizar.**
+
+</div>
+
+<div align="center">
+  <h1><strong>Dicas</strong></h1>
+</div>
