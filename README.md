@@ -30,12 +30,6 @@
   <h1><strong>Orçamento PC</strong></h1>
 </div>
 
-<div align="center">
-  <h1><strong>| Componentes | Preço | Link |
-|-------|------|------------|
-| Ana   | 25   | Engenheira |
-| João  | 30   | Professor  |</strong></h1>
-</div>
 
 | Componentes | Preço | Link |
 |-------|------|------------|
