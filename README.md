@@ -151,8 +151,8 @@
 ## Para Node.js:
 > Sudo apt install nodejs
 ## Para MySQL:
-> Sudo apt install mysql-client-core-8.0
+> sudo apt install mysql-server
 
 <br>
 
-- Para finalizar, use um [tutorial](https://youtu.be/bNwohpcJxow?feature=shared) de comando para colocar seu Linux em tela cheia que contenha esse código **"sudo apt install linux-headers-$(uname -r) build-essential dkms"**;
+- Para finalizar, use um [tutorial](https://cursos.alura.com.br/forum/topico-duvida-virtual-box-ubuntu-server-sem-interface-grafica-como-deixar-em-fullscreeen-287037) de comando para colocar seu Linux em tela cheia que contenha esse código **"sudo apt-get install virtualbox-guest-additions-iso"**;
