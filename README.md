@@ -140,3 +140,6 @@
 <div align="center">
   <h1><strong>Dicas</strong></h1>
 </div>
+
+- Não esquecer de ver o recomendado para seu PC no momento de definir a Memória base e o processador;
+- Use um tutorial de comando para colocar seu Linux em tela cheia que contenha esse código "sudo apt install linux-headers-$(uname -r) build-essential dkms".
