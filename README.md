@@ -48,7 +48,7 @@
   <h1><strong>Escolha do Sistema Operacional</strong></h1>
 </div>
 
-## Linux: Utunbu
+## Linux: Ubuntu
 
 > Facilidade de uso e grande comunidade
 
@@ -132,14 +132,27 @@
 
 <br>
 
-- **Após a instalação clique no botão de reeniciar, depois que reeniciado, clique dentro do Linux ja, na pasta de instalação do linux;**
+- **Após a instalação clique no botão de reeniciar, depois que reeniciado, clique ja dentro do Linux na pasta de instalação do Ubuntu no canto inferior direito;**
 - **Preencha todos os dados necessários e clique para finalizar.**
 
 </div>
 
 <div align="center">
-  <h1><strong>Dicas</strong></h1>
+  <h1><strong>Recomendações</strong></h1>
 </div>
 
 - Não esquecer de ver o recomendado para seu PC no momento de definir a Memória base e o processador;
-- Use um tutorial de comando para colocar seu Linux em tela cheia que contenha esse código "sudo apt install linux-headers-$(uname -r) build-essential dkms".
+- Olhe as versões ou se Node.js, MySQL e Python estão instaladas dentro do linux, caso não, use os seguintes comandos:
+
+<br>
+
+## Para Python:
+> sudo apt install python3
+## Para Node.js:
+> Sudo apt install nodejs
+## Para MySQL:
+> Sudo apt install mysql-client-core-8.0
+
+<br>
+
+- Para finalizar, use um [tutorial](https://youtu.be/bNwohpcJxow?feature=shared) de comando para colocar seu Linux em tela cheia que contenha esse código **"sudo apt install linux-headers-$(uname -r) build-essential dkms"**;
